@@ -100,7 +100,7 @@ def compute_metrics(eval_pred):
 
 # --- Arguments d'entraînement ---
 training_args = TrainingArguments(
-    output_dir="router_arena",
+    output_dir="models/router_arena",
     learning_rate=2e-5,
     weight_decay=0.01,
     num_train_epochs=1,

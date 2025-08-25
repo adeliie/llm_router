@@ -1,5 +1,6 @@
 __pycache__/
 
+mlruns/
 # Modèles et checkpoints
 models/
 *.pth
