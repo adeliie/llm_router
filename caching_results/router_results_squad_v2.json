@@ -1,0 +1,1186 @@
+{
+  "KNN": [
+    {
+      "router": "KNN",
+      "tau": 0.0,
+      "pct_big": 90.0,
+      "avg_score": 9.7
+    },
+    {
+      "router": "KNN",
+      "tau": 0.010526315789473684,
+      "pct_big": 90.0,
+      "avg_score": 9.7
+    },
+    {
+      "router": "KNN",
+      "tau": 0.021052631578947368,
+      "pct_big": 90.0,
+      "avg_score": 9.7
+    },
+    {
+      "router": "KNN",
+      "tau": 0.031578947368421054,
+      "pct_big": 90.0,
+      "avg_score": 9.7
+    },
+    {
+      "router": "KNN",
+      "tau": 0.042105263157894736,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.05263157894736842,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.06315789473684211,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.07368421052631578,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.08421052631578947,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.09473684210526316,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.10526315789473684,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.11578947368421053,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.12631578947368421,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.1368421052631579,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.14736842105263157,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.15789473684210525,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.16842105263157894,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.17894736842105263,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.18947368421052632,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.2,
+      "pct_big": 80.0,
+      "avg_score": 8.8
+    },
+    {
+      "router": "KNN",
+      "tau": 0.24444444444444446,
+      "pct_big": 70.0,
+      "avg_score": 8.6
+    },
+    {
+      "router": "KNN",
+      "tau": 0.28888888888888886,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.3333333333333333,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.37777777777777777,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.4222222222222222,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.4666666666666666,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.5111111111111111,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.5555555555555556,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.6,
+      "pct_big": 60.0,
+      "avg_score": 8.3
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8105263157894738,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8210526315789474,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8315789473684211,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8421052631578948,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8526315789473684,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8631578947368421,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8736842105263158,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8842105263157896,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.8947368421052632,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9052631578947369,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9157894736842105,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9263157894736842,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9368421052631579,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9473684210526316,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9578947368421052,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.968421052631579,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9789473684210527,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 0.9894736842105263,
+      "pct_big": 40.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "KNN",
+      "tau": 1.0,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    }
+  ],
+  "SVM": [
+    {
+      "router": "SVM",
+      "tau": 0.0,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "SVM",
+      "tau": 0.010526315789473684,
+      "pct_big": 50.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.021052631578947368,
+      "pct_big": 50.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.031578947368421054,
+      "pct_big": 50.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.042105263157894736,
+      "pct_big": 50.0,
+      "avg_score": 7.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.05263157894736842,
+      "pct_big": 40.0,
+      "avg_score": 6.8
+    },
+    {
+      "router": "SVM",
+      "tau": 0.06315789473684211,
+      "pct_big": 40.0,
+      "avg_score": 6.8
+    },
+    {
+      "router": "SVM",
+      "tau": 0.07368421052631578,
+      "pct_big": 40.0,
+      "avg_score": 6.8
+    },
+    {
+      "router": "SVM",
+      "tau": 0.08421052631578947,
+      "pct_big": 30.0,
+      "avg_score": 6.6
+    },
+    {
+      "router": "SVM",
+      "tau": 0.09473684210526316,
+      "pct_big": 30.0,
+      "avg_score": 6.6
+    },
+    {
+      "router": "SVM",
+      "tau": 0.10526315789473684,
+      "pct_big": 30.0,
+      "avg_score": 6.6
+    },
+    {
+      "router": "SVM",
+      "tau": 0.11578947368421053,
+      "pct_big": 30.0,
+      "avg_score": 6.6
+    },
+    {
+      "router": "SVM",
+      "tau": 0.12631578947368421,
+      "pct_big": 20.0,
+      "avg_score": 5.7
+    },
+    {
+      "router": "SVM",
+      "tau": 0.1368421052631579,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.14736842105263157,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.15789473684210525,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.16842105263157894,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.17894736842105263,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.18947368421052632,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.2,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.24444444444444446,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.28888888888888886,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.3333333333333333,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.37777777777777777,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.4222222222222222,
+      "pct_big": 10.0,
+      "avg_score": 5.1
+    },
+    {
+      "router": "SVM",
+      "tau": 0.4666666666666666,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.5111111111111111,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.5555555555555556,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.6,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8105263157894738,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8210526315789474,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8315789473684211,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8421052631578948,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8526315789473684,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8631578947368421,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8736842105263158,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8842105263157896,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.8947368421052632,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9052631578947369,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9157894736842105,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9263157894736842,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9368421052631579,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9473684210526316,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9578947368421052,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.968421052631579,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9789473684210527,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 0.9894736842105263,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "SVM",
+      "tau": 1.0,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    }
+  ],
+  "KNN Arena": [
+    {
+      "router": "KNN Arena",
+      "tau": 0.0,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.010526315789473684,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.021052631578947368,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.031578947368421054,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.042105263157894736,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.05263157894736842,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.06315789473684211,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.07368421052631578,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.08421052631578947,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.09473684210526316,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.10526315789473684,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.11578947368421053,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.12631578947368421,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.1368421052631579,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.14736842105263157,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.15789473684210525,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.16842105263157894,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.17894736842105263,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.18947368421052632,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.2,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.24444444444444446,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.28888888888888886,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.3333333333333333,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.37777777777777777,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.4222222222222222,
+      "pct_big": 90.0,
+      "avg_score": 9.4
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.4666666666666666,
+      "pct_big": 90.0,
+      "avg_score": 9.4
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.5111111111111111,
+      "pct_big": 90.0,
+      "avg_score": 9.4
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.5555555555555556,
+      "pct_big": 80.0,
+      "avg_score": 9.1
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.6,
+      "pct_big": 80.0,
+      "avg_score": 9.1
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8,
+      "pct_big": 20.0,
+      "avg_score": 6.4
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8105263157894738,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8210526315789474,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8315789473684211,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8421052631578948,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8526315789473684,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8631578947368421,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8736842105263158,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8842105263157896,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.8947368421052632,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9052631578947369,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9157894736842105,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9263157894736842,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9368421052631579,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9473684210526316,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9578947368421052,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.968421052631579,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9789473684210527,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 0.9894736842105263,
+      "pct_big": 10.0,
+      "avg_score": 5.5
+    },
+    {
+      "router": "KNN Arena",
+      "tau": 1.0,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    }
+  ],
+  "BERT Router": [
+    {
+      "router": "BERT Router",
+      "tau": 0.0,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.010526315789473684,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.021052631578947368,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.031578947368421054,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.042105263157894736,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.05263157894736842,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.06315789473684211,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.07368421052631578,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.08421052631578947,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.09473684210526316,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.10526315789473684,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.11578947368421053,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.12631578947368421,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.1368421052631579,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.14736842105263157,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.15789473684210525,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.16842105263157894,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.17894736842105263,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.18947368421052632,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.2,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.24444444444444446,
+      "pct_big": 100.0,
+      "avg_score": 10.0
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.28888888888888886,
+      "pct_big": 80.0,
+      "avg_score": 8.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.3333333333333333,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.37777777777777777,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.4222222222222222,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.4666666666666666,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.5111111111111111,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.5555555555555556,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.6,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8105263157894738,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8210526315789474,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8315789473684211,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8421052631578948,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8526315789473684,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8631578947368421,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8736842105263158,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8842105263157896,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.8947368421052632,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9052631578947369,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9157894736842105,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9263157894736842,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9368421052631579,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9473684210526316,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9578947368421052,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.968421052631579,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9789473684210527,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 0.9894736842105263,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    },
+    {
+      "router": "BERT Router",
+      "tau": 1.0,
+      "pct_big": 0.0,
+      "avg_score": 4.5
+    }
+  ]
+}

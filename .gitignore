@@ -1,0 +1,10 @@
+__pycache__/
+
+# Modèles et checkpoints
+models/
+*.pth
+*.pt
+*.safetensors
+*.pkl
+models/**/*.pt
+models/**/*.safetensors
