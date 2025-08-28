@@ -1,4 +1,4 @@
-# LL-Router Codebase Overview
+# Router models Overview
 
 This repository contains multiple scripts and utilities for training and evaluating different router models.  
 The goal is to determine whether a query requires a strong LLM (e.g., GPT-4) or if a weaker/smaller LLM is sufficient, in order to optimize efficiency and performance.
